@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Virginia%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/ginangela">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B9CEFF&center=true&vCenter=true&width=500&lines=Student+at+Politeknik+Negeri+Jakarta;Frontend+Developer+%26+UI%2FUX+Designer;Code+%2B+Design+%3D+%E2%9D%A4%EF%B8%8F;Pixel-perfect+or+nothing+:P" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B9CEFF&center=true&vCenter=true&width=500&lines=Student+at+Politeknik+Negeri+Jakarta;Frontend+Developer+%26+UI%2FUX+Designer;Pixel-perfect+or+nothing+:P" alt="Typing SVG" />
 </a>
 
 </div>
